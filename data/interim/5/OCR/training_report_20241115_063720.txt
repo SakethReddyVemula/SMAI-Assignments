@@ -1,0 +1,45 @@
+OCR Model Training Report
+==================================================
+
+Training completed after 4 epochs
+--------------------------------------------------
+
+Final Metrics:
+Training Character Accuracy: 0.9112
+Validation Character Accuracy: 0.6622
+Training Word Accuracy: 0.6571
+Validation Word Accuracy: 0.0264
+
+Example Predictions:
+--------------------------------------------------
+Ground Truth | Prediction
+--------------------------------------------------
+acquaintance | acquaintance
+decrescent   | decrescent
+cramping     | cramping
+enfeoffment  | entedfrment
+hydraulicked | hydraullcked
+embolite     | embolite
+demurrer     | demurrer
+cadi         | cadi
+center       | center
+celibatist   | celibatist
+
+Training History:
+--------------------------------------------------
+Epoch 1:
+Character Accuracy: 0.4824
+Word Accuracy: 0.0029
+-------------------------
+Epoch 2:
+Character Accuracy: 0.6159
+Word Accuracy: 0.0178
+-------------------------
+Epoch 3:
+Character Accuracy: 0.6721
+Word Accuracy: 0.0234
+-------------------------
+Epoch 4:
+Character Accuracy: 0.6622
+Word Accuracy: 0.0264
+-------------------------

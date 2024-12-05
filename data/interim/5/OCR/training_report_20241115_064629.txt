@@ -1,0 +1,61 @@
+OCR Model Training Report
+==================================================
+
+Training completed after 8 epochs
+--------------------------------------------------
+
+Final Metrics:
+Training Character Accuracy: 0.9433
+Validation Character Accuracy: 0.6786
+Training Word Accuracy: 0.7654
+Validation Word Accuracy: 0.0292
+
+Example Predictions:
+--------------------------------------------------
+Ground Truth | Prediction
+--------------------------------------------------
+bayonet      | bayonet
+cannibalish  | cannibalish
+catatonia    | catatonia
+calcimine    | calcimine
+aleyrodes    | aleyrodes
+holobenthic  | holobenthic
+geomancer    | geomancer
+gnomonical   | goomonical
+grecism      | gresism
+complainable | complainable
+
+Training History:
+--------------------------------------------------
+Epoch 1:
+Character Accuracy: 0.4824
+Word Accuracy: 0.0029
+-------------------------
+Epoch 2:
+Character Accuracy: 0.6159
+Word Accuracy: 0.0178
+-------------------------
+Epoch 3:
+Character Accuracy: 0.6721
+Word Accuracy: 0.0234
+-------------------------
+Epoch 4:
+Character Accuracy: 0.6622
+Word Accuracy: 0.0264
+-------------------------
+Epoch 5:
+Character Accuracy: 0.6650
+Word Accuracy: 0.0270
+-------------------------
+Epoch 6:
+Character Accuracy: 0.6915
+Word Accuracy: 0.0292
+-------------------------
+Epoch 7:
+Character Accuracy: 0.7194
+Word Accuracy: 0.0283
+-------------------------
+Epoch 8:
+Character Accuracy: 0.6786
+Word Accuracy: 0.0292
+-------------------------

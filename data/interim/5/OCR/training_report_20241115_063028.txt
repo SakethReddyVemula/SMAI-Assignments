@@ -1,0 +1,33 @@
+OCR Model Training Report
+==================================================
+
+Training completed after 1 epochs
+--------------------------------------------------
+
+Final Metrics:
+Training Character Accuracy: 0.4043
+Validation Character Accuracy: 0.4824
+Training Word Accuracy: 0.0355
+Validation Word Accuracy: 0.0029
+
+Example Predictions:
+--------------------------------------------------
+Ground Truth | Prediction
+--------------------------------------------------
+conehead     | bbbbbbbb
+gerontism    | bbbbbbbbb
+hostager     | bbbbbbbb
+battological | bbbbbbbbbbbb
+diobely      | bbbbbbb
+enteromegaly | bbbbbbbbbbbb
+causing      | bbbbbbb
+diphylla     | bbbbbbbb
+data         | bbbb
+decollate    | bbbbbbbbb
+
+Training History:
+--------------------------------------------------
+Epoch 1:
+Character Accuracy: 0.4824
+Word Accuracy: 0.0029
+-------------------------

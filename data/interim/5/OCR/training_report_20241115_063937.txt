@@ -1,0 +1,49 @@
+OCR Model Training Report
+==================================================
+
+Training completed after 5 epochs
+--------------------------------------------------
+
+Final Metrics:
+Training Character Accuracy: 0.9254
+Validation Character Accuracy: 0.6650
+Training Word Accuracy: 0.7069
+Validation Word Accuracy: 0.0270
+
+Example Predictions:
+--------------------------------------------------
+Ground Truth | Prediction
+--------------------------------------------------
+disheritment | disheritment
+corseting    | corseting
+boweryish    | boweryish
+entomologic  | entomolooic
+antihero     | antipero
+acromion     | acromion
+externally   | externally
+gride        | grida
+cohibitive   | cobibitive
+hydrophobic  | hydrophobic
+
+Training History:
+--------------------------------------------------
+Epoch 1:
+Character Accuracy: 0.4824
+Word Accuracy: 0.0029
+-------------------------
+Epoch 2:
+Character Accuracy: 0.6159
+Word Accuracy: 0.0178
+-------------------------
+Epoch 3:
+Character Accuracy: 0.6721
+Word Accuracy: 0.0234
+-------------------------
+Epoch 4:
+Character Accuracy: 0.6622
+Word Accuracy: 0.0264
+-------------------------
+Epoch 5:
+Character Accuracy: 0.6650
+Word Accuracy: 0.0270
+-------------------------

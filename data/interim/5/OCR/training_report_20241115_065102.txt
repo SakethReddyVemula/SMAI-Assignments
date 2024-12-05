@@ -1,0 +1,69 @@
+OCR Model Training Report
+==================================================
+
+Training completed after 10 epochs
+--------------------------------------------------
+
+Final Metrics:
+Training Character Accuracy: 0.9489
+Validation Character Accuracy: 0.7104
+Training Word Accuracy: 0.7840
+Validation Word Accuracy: 0.0309
+
+Example Predictions:
+--------------------------------------------------
+Ground Truth | Prediction
+--------------------------------------------------
+dyspnoic     | dyspnoio
+bejezebel    | bejeaeeel
+damine       | damine
+dreamworld   | dreamwordd
+carnaria     | carnaria
+fondlingly   | fondlingly
+frontager    | frontager
+brucite      | brucite
+collegiation | collegiation
+engross      | engross
+
+Training History:
+--------------------------------------------------
+Epoch 1:
+Character Accuracy: 0.4824
+Word Accuracy: 0.0029
+-------------------------
+Epoch 2:
+Character Accuracy: 0.6159
+Word Accuracy: 0.0178
+-------------------------
+Epoch 3:
+Character Accuracy: 0.6721
+Word Accuracy: 0.0234
+-------------------------
+Epoch 4:
+Character Accuracy: 0.6622
+Word Accuracy: 0.0264
+-------------------------
+Epoch 5:
+Character Accuracy: 0.6650
+Word Accuracy: 0.0270
+-------------------------
+Epoch 6:
+Character Accuracy: 0.6915
+Word Accuracy: 0.0292
+-------------------------
+Epoch 7:
+Character Accuracy: 0.7194
+Word Accuracy: 0.0283
+-------------------------
+Epoch 8:
+Character Accuracy: 0.6786
+Word Accuracy: 0.0292
+-------------------------
+Epoch 9:
+Character Accuracy: 0.7035
+Word Accuracy: 0.0307
+-------------------------
+Epoch 10:
+Character Accuracy: 0.7104
+Word Accuracy: 0.0309
+-------------------------
